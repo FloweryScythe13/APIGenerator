@@ -1,0 +1,14 @@
+C:\Users\gutersx\RiderProjects\API Generator\API Generator\bin\Debug\API_Generator.exe
+C:\Users\gutersx\RiderProjects\API Generator\API Generator\bin\Debug\API_Generator.pdb
+C:\Users\gutersx\RiderProjects\API Generator\API Generator\obj\Debug\API Generator.csprojAssemblyReference.cache
+C:\Users\gutersx\RiderProjects\API Generator\API Generator\obj\Debug\API Generator.csproj.CoreCompileInputs.cache
+C:\Users\gutersx\RiderProjects\API Generator\API Generator\obj\Debug\API_Generator.exe
+C:\Users\gutersx\RiderProjects\API Generator\API Generator\obj\Debug\API_Generator.pdb
+C:\Users\gutersx\RiderProjects\API Generator\API Generator\bin\Debug\System.Web.dll
+C:\Users\gutersx\RiderProjects\API Generator\API Generator\obj\Debug\API Generator.csproj.CopyComplete
+C:\Users\brichem\source\repos\ApiGenerator\API Generator\bin\Debug\API_Generator.exe
+C:\Users\brichem\source\repos\ApiGenerator\API Generator\bin\Debug\API_Generator.pdb
+C:\Users\brichem\source\repos\ApiGenerator\API Generator\obj\Debug\API Generator.csprojAssemblyReference.cache
+C:\Users\brichem\source\repos\ApiGenerator\API Generator\obj\Debug\API Generator.csproj.CoreCompileInputs.cache
+C:\Users\brichem\source\repos\ApiGenerator\API Generator\obj\Debug\API_Generator.exe
+C:\Users\brichem\source\repos\ApiGenerator\API Generator\obj\Debug\API_Generator.pdb
