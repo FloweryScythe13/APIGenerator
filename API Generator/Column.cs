@@ -18,7 +18,7 @@ namespace API_Generator
         {
             Name = name;
             Nullable = string.Compare(nullable, "yes", StringComparison.OrdinalIgnoreCase) == 0;
-            SqlDbType = Enum.TryParse(sqlDbType, true, out SqlDbType value) ? value : SqlDbType.Variant;
+            SqlDbType = Enum.TryParse(sqlDbType, true, out SqlDbType value) ? value : SqlDbType.Variant; //Bug from original code that threw an exception
 
             switch (SqlDbType)
             {
@@ -111,7 +111,7 @@ namespace API_Generator
                     Type = typeof(byte);
                     break;
                 }
-
+                //It is unknown right now what conversions (if any) exist between these SQL types and C# object types. Look into this as a bug.
                 case SqlDbType.Variant:
                 case SqlDbType.Udt:
                 case SqlDbType.Structured:
